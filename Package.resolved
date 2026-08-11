@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "ios-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/IndoorAtlas/ios-spm.git",
+      "state" : {
+        "revision" : "ab80263558fa06bbe01f5f9717acf2aa34159d46",
+        "version" : "3.8.1"
+      }
+    },
+    {
+      "identity" : "maplibre-gl-native-distribution",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/maplibre/maplibre-gl-native-distribution.git",
+      "state" : {
+        "revision" : "e0ee2c11a2859e22d3f0dd29705c18169bdafa7b",
+        "version" : "6.25.0"
+      }
+    },
+    {
+      "identity" : "wayfinder-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Atrius-Wayfinder/wayfinder-ios-sdk.git",
+      "state" : {
+        "revision" : "e9b1f9a1913f47b6f4fa5b1c81be4d6b6e2db191",
+        "version" : "4.2.6"
+      }
+    }
+  ],
+  "version" : 2
+}
