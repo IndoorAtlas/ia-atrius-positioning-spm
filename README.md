@@ -17,14 +17,14 @@ In Xcode: **File → Add Package Dependencies…** and enter
 https://github.com/IndoorAtlas/ia-atrius-positioning-spm
 ```
 
-Prerelease versions must be selected explicitly (exact version), e.g. `1.0.0-alpha2`.
+Prerelease versions must be selected explicitly (exact version), e.g. `1.0.0-alpha3`.
 
 Or in `Package.swift`:
 
 ```swift
 dependencies: [
     .package(url: "https://github.com/IndoorAtlas/ia-atrius-positioning-spm.git",
-             exact: "1.0.0-alpha2")
+             exact: "1.0.0-alpha3")
 ]
 ```
 
