@@ -18,8 +18,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "IAAtriusPositioningXCFramework",
-            url: "https://dl.cloudsmith.io/public/indooratlas/ios-public-alpha/raw/names/IAAtriusPositioning/versions/1.0.0-alpha3/IAAtriusPositioning-1.0.0-alpha3-5b34d48.zip",
-            checksum: "01b59e98181702769b51936cd66d1bb4768ae971c838bf6c23a57d9247d99731"
+            url: "https://dl.cloudsmith.io/public/indooratlas/ios-public-alpha/raw/names/IAAtriusPositioning/versions/1.0.0-alpha4/IAAtriusPositioning-1.0.0-alpha4-c9dcdfc.zip",
+            checksum: "ec1ca1460a4ffb89ae8885d4073c9e37b2095a3e2fe10833497c601a80a049af"
         ),
         .target(
             name: "IAAtriusPositioningWrapper",
