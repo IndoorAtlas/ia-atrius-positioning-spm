@@ -23,8 +23,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Atrius-Wayfinder/wayfinder-ios-sdk.git",
       "state" : {
-        "revision" : "bd6d48a1f09337e45596d4a46e25b72fa1456784",
-        "version" : "4.2.8"
+        "revision" : "a96dd1749d251a40c2574b2d181f68624d44ac82",
+        "version" : "4.2.9"
       }
     }
   ],
